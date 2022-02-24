@@ -1,11 +1,11 @@
 <h1 align="center">
 <br>
-    <img alt="logo image" src=".github/logo.svg" width="100%">
+    <img alt="logo image" src="./github-assets/logo.svg" width="50%">
 <br>
 <br>
 </h1>
 
-<img alt="app image" src=".github/app.png" width="100%">
+<img alt="app image" src="./github-assets/app.png" width="100%">
 
 ##
 
